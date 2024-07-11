@@ -1,1 +1,1 @@
-# Stock-market-price-prediction
+# StockSence

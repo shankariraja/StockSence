@@ -1,0 +1,16 @@
+# Virtual environment
+stocksence/
+
+# PySpark logs and temp files
+*.log
+tmp/
+
+# Kafka logs
+kafka/logs/
+
+# Airflow logs
+airflow/logs/
+
+# Ignore data files
+data/raw/*
+!data/raw/.keep
